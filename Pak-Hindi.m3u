@@ -1,0 +1,214 @@
+#EXTM3U
+#EXTINF:-1,[COLOR blue][I][B]--- 19-12-2015 ---[/B][/I][/COLOR]
+#EXTINF:-1, [COLOR green] --REDENEOBUX.COM 19-12-2015--[/COLOR]  
+
+#EXTINF:-1,[COLOR yellow]---- HINDI ----[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1,INDIA:9x Tashan
+rtsp://46.249.213.93/broadcast/9xmtashan-tablet.3gp
+
+#EXTINF:-1,B4U Music
+http://46.249.213.87/iPhone/HLS_TS/broadcast/befouryoumusic-tablet.3gp/befouryoumusic-tablet.3gp-mr648k.m3u8
+
+#EXTINF:-1,PTV Sports
+http://109.123.70.72:1935/live/ptvsports/samitv.m3u8
+
+#EXTINF:-1,NDTV 24x7
+http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/ndtv247live.smil/playlist.m3u8
+ 
+#EXTINF:0,Brit Asia TV
+http://195.244.40.174:34200/bysid/55108
+ 
+#EXTINF:0, Captin TV
+http://edge.purplestream.com/live/captain/amlst:captaintv/playlist.m3u8
+ 
+#EXTINF:0, Care World TV
+http://live.careworldtv.com/live/careworld/playlist.m3u8
+ 
+#EXTINF:0,COLORS
+http://195.244.40.175:34200/bysid/52520
+ 
+#EXTINF:0, DD Punjabi
+http://164.100.49.24:8080/hls-live/livepkgr/_definst_/ddpunjabi.m3u8
+ 
+#EXTINF:-1,DEKHO TV
+http://54.243.231.64:1935/live/dekhotv.mp4/hasbahca.m3u8
+ 
+#EXTINF:0, ETV Marathi
+http://etv_marathi-lh.akamaihd.net/i/etv_marathi_n_1@87184/master.m3u8
+ 
+#EXTINF:-1,BOLLYWOOD HUNGAMA
+rtsp://46.249.213.87/broadcast/bollywoodhungama-tablet.3gp
+ 
+#EXTINF:-1,Films of India
+rtsp://46.249.213.93/broadcast/filmsofindia-tablet.3gp
+ 
+#EXTINF:-1,Hindi Movies
+rtsp://46.249.213.93/broadcast/hindimovies-tablet.3gp
+ 
+#EXTINF:-1,NDTV India
+http://bglive-a.bitgravity.com/ndtv/indlo/live/native
+ 
+#EXTINF:-1,Sony SAB TV
+rtsp://46.249.213.93/broadcast/sonysabtv-tablet.3gp
+ 
+#EXTINF:0, India Vision
+http://live.wmncdn.net/indiavisiontv/db65322988fe2be4bc40b7175de75c0e.sdp/playlist.m3u8
+ 
+#EXTINF:0, Janta TV
+http://jlive.itv.net.in:1935/jantatv/myStream.sdp/playlist.m3u8
+ 
+#EXTINF:0, Khabrayn Abhi Tak
+http://edge-ind.inapcdn.in:1935/berry/latest.stream_aac/playlist.m3u8
+ 
+#EXTINF:0, Namma TV
+http://studiosystem.co.in:1935/live/namma.stream/playlist.m3u8
+
+#EXTINF:0,PTC PUNJABI
+http://195.244.40.174:34200/bysid/55117
+ 
+#EXTINF:0, Samaya 24×7
+http://edge.purplestream.com/live/samtv/amlst:samayatv/playlist.m3u8
+ 
+#EXTINF:0, Star Maza
+http://mediacontent-lh.akamaihd.net/i/marathiabpnew_1@188093/master.m3u8
+
+
+#EXTINF:-1,[COLOR orange]---- PAKISTAN ----[/COLOR]
+http://0.0.0.0:1234
+
+
+#EXTINF:-1,A Plus Pakistan 
+http://cdn.ebound.tv:1935/tv/aplus/playlist.m3u8 
+#EXTINF:-1,A Plus Sub Pakistan 
+http://cdn.ebound.tv:1935/tv/aplus_sub/playlist.m3u8 
+#EXTINF:-1,ARY Dizi Pakistan 
+http://cdn.ebound.tv:1935/tv/geokahani/playlist.m3u8 
+#EXTINF:-1, Ary Digital
+http://93.115.85.17:1935/ARYDIGITAL/myStream/BratuMarian.m3u8 
+#EXTINF:-1,Ary Digital (stream 2)
+rtmp://93.115.85.17:1935/ARYDIGITAL//myStream 
+#EXTINF:-1,Ary News
+http://93.115.85.17:1935/ARYNEWS_2/myStream_240p/BratuMarian.m3u8 
+#EXTINF:-1,Ary News (stream 2)
+rtmp://93.115.85.17:1935/ARYNEWS_2/myStream_240p 
+#EXTINF:-1,Ary Zindagi
+http://93.115.85.17:1935/ARYZINDAGI//myStream/BratuMarian.m3u8 
+#EXTINF:-1,ARY Zindagi (stream 2)
+rtmp://93.115.85.17:1935/ARYZINDAGI//myStream
+#EXTINF:-1,AVT Khyber Pakistan 
+http://cdn.ebound.tv:1935/tv/avtkhyber/playlist.m3u8 
+#EXTINF:-1,Bindas HD Explore TV Zee TVBindas Play Explore TV Zee TV 
+http://yupptvrtmp-lh.akamaihd.net/i/nwk9_46@196625/index_1000_av.m3u8 
+#EXTINF:-1,Explore TV Zee TV 
+http://yupptvrtmp-lh.akamaihd.net/i/nwk9_46@196625/index_1000_av.m3u8 
+#EXTINF:-1,Express Ent Pakistan 
+http://cdn.ebound.tv:1935/tv/expressentertainment_sub/playlist.m3u8 
+#EXTINF:-1,hadi_tv 
+rtmp://live1.haditv.com/liveTrans/channel1_110k 
+#EXTINF:-1,HD Mtunes Zee TV 
+http://yupptvrtmp-lh.akamaihd.net/i/blore2_mtunes35@101820/master.m3u8 
+#EXTINF:-1,Hum 2 Pakistan 
+http://cdn.ebound.tv:1935/tv/hum2/playlist.m3u8 
+#EXTINF:-1,Hum Tv Pakistan 
+http://cdn.ebound.tv:1935/tv/humtv/playlist.m3u8 
+#EXTINF:-1,iFILM 
+rtmp://mtv.fms-01.visionip.tv/live//mtv-ifilm-ifilm-live-16×9-SDq 
+#EXTINF:-1,islam_tv by_BratuMarian m3u8 
+http://wowza05.sharp-stream.com/islamtv/islamtv/BratuMarian.m3u8 
+#EXTINF:-1,islam_tv m3u8 
+http://wowza04.sharp-stream.com/islamtv/islamtv/BratuMarian.m3u8 
+#EXTINF:-1,Maharishi Channel 3 rtsp 
+rtsp://streaming.mou.org/videodialup 
+#EXTINF:-1,NDTV Profit 
+http://bglive-a.bitgravity.com/ndtv/prolo/live/native  
+#EXTINF:-1,peace_tv?by_BratuMarian 
+rtmp://peace.fms.visionip.tv/live/b2b-peace_asia-live-25f-4×3-sdh_1 
+#EXTINF:-1,PRESS TV 
+rtmp://mtv.fms-01.visionip.tv/live/mtv-ptv-live-25f-16×9-SDh?ref=www.presstv.ir&USER=MTV+-+PTV+Stream 
+#EXTINF:-1,PTV NEWS 
+rtmp://live.server4sale.com/live/PTVnews 
+#EXTINF:-1,PTV WORLD 
+rtmp://live.server4sale.com/live/8090 
+#EXTINF:-1,ptv-news
+rtmp://live.server4sale.com/live//PTVnews 
+#EXTINF:-1,Sama News rtsp 
+rtsp://38.96.148.99:1935/live/bb 
+#EXTINF:-1,Hadi TV
+rtmp://live1.haditv.com/liveTrans/channel1_110k
+#EXTINF:-1,HD Mtunes Zee TV
+http://mthls-i.akamaihd.net/hls/live/219508/mthls/06.m3u8
+#EXTINF:-1,iFILM
+rtmp://mtv.fms-01.visionip.tv/live//mtv-ifilm-ifilm-live-16x9-SDq
+#EXTINF:0, HUM TV
+http://cdn.ebound.tv:1935/tv/humtv/playlist.m3u8
+
+#EXTINF:0, HUM SITARAY
+http://cdn.ebound.tv:1935/tv/hum2/playlist.m3u8
+
+#EXTINF:0, EXPRESS ENTERTAINMENT
+http://cdn.ebound.tv:1935/tv/expressentertainment/playlist.m3u8
+
+#EXTINF:0, EXPRESS NEWS
+http://cdn.ebound.tv:1935/tv/express/playlist.m3u8
+
+#EXTINF:0, TIMES TV
+http://cdn.ebound.tv:1935/tv/times/playlist.m3u8
+
+#EXTINF:0, APLUS
+http://cdn.ebound.tv:1935/tv/aplus/playlist.m3u8
+
+#EXTINF:0, URDU 1
+http://cdn.ebound.tv:1935/tv/urdu1/playlist.m3u8
+
+#EXTINF:0, DAWN NEWS
+http://cdn.ebound.tv:1935/tv/dawn/playlist.m3u8
+
+#EXTINF:0, WAQT NEWS
+http://cdn.ebound.tv:1935/tv/waqtnews/playlist.m3u8
+
+#EXTINF:0, CAPITAL TV
+http://cdn.ebound.tv:1935/tv/capitaltv/playlist.m3u8
+
+#EXTINF:0, ROYAL NEWS TV
+http://cdn.ebound.tv:1935/tv/royaltv/playlist.m3u8
+
+#EXTINF:0, CHANNEL 5 NEWS
+http://cdn.ebound.tv:1935/tv/channelfive/playlist.m3u8
+
+#EXTINF:0, CITY42
+http://cdn.ebound.tv:1935/tv/city42/playlist.m3u8
+
+#EXTINF:0, MASALA TV
+http://cdn.ebound.tv:1935/tv/masalatv/playlist.m3u8
+
+#EXTINF:0, AWAZ TV
+http://cdn.ebound.tv:1935/tv/awaztv/playlist.m3u8
+
+#EXTINF:0, SINDH TV
+http://cdn.ebound.tv:1935/tv/sindhtv/playlist.m3u8
+
+#EXTINF:0, SINDH TV NEWS
+http://cdn.ebound.tv:1935/tv/sindhnews/playlist.m3u8
+
+#EXTINF:0, EMAX TV
+http://cdn.ebound.tv:1935/tv/emax/playlist.m3u8
+
+#EXTINF:0, STYLE 360
+http://cdn.ebound.tv:1935/tv/style360/playlist.m3u8
+
+#EXTINF:0, BUSINESS PLUS
+http://cdn.ebound.tv:1935/tv/businessplus/playlist.m3u8
+
+#EXTINF:0, TEHZEEB TV
+http://cdn.ebound.tv:1935/tv/tehzeeb/playlist.m3u8
+
+#EXTINF:-1,KTN ENT
+rtmp://$OPT:rtmp-raw=rtmp://103.24.96.74/ktn/ playpath=ktn swfUrl=http://ktntv.tv/wp-content/player/jwplayer.flash.swf pageUrl=http://www.ktntv.tv/ live=1
+
+#EXTINF:-1,KTN NEWS
+rtmp://$OPT:rtmp-raw=rtmp://103.24.96.74/ktn/ playpath=ktnnews swfUrl=http://ktntv.tv/wp-content/player/jwplayer.flash.swf pageUrl=http://www.ktnnews.tv/ live=1
+
+#EXTINF:-1,KASHISH
+rtmp://$OPT:rtmp-raw=rtmp://103.24.96.74/ktn/ playpath=kashish swfUrl=http://ktntv.tv/wp-content/player/jwplayer.flash.swf pageUrl=http://www.ktntv.tv/ live=1
