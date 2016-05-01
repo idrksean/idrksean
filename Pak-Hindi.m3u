@@ -1,214 +1,646 @@
-#EXTM3U
-#EXTINF:-1,[COLOR blue][I][B]--- 19-12-2015 ---[/B][/I][/COLOR]
-#EXTINF:-1, [COLOR green] --REDENEOBUX.COM 19-12-2015--[/COLOR]  
-
-#EXTINF:-1,[COLOR yellow]---- HINDI ----[/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1,INDIA:9x Tashan
-rtsp://46.249.213.93/broadcast/9xmtashan-tablet.3gp
-
-#EXTINF:-1,B4U Music
-http://46.249.213.87/iPhone/HLS_TS/broadcast/befouryoumusic-tablet.3gp/befouryoumusic-tablet.3gp-mr648k.m3u8
-
-#EXTINF:-1,PTV Sports
-http://109.123.70.72:1935/live/ptvsports/samitv.m3u8
-
-#EXTINF:-1,NDTV 24x7
-http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/ndtv247live.smil/playlist.m3u8
- 
-#EXTINF:0,Brit Asia TV
-http://195.244.40.174:34200/bysid/55108
- 
-#EXTINF:0, Captin TV
-http://edge.purplestream.com/live/captain/amlst:captaintv/playlist.m3u8
- 
-#EXTINF:0, Care World TV
-http://live.careworldtv.com/live/careworld/playlist.m3u8
- 
-#EXTINF:0,COLORS
-http://195.244.40.175:34200/bysid/52520
- 
-#EXTINF:0, DD Punjabi
-http://164.100.49.24:8080/hls-live/livepkgr/_definst_/ddpunjabi.m3u8
- 
-#EXTINF:-1,DEKHO TV
-http://54.243.231.64:1935/live/dekhotv.mp4/hasbahca.m3u8
- 
-#EXTINF:0, ETV Marathi
-http://etv_marathi-lh.akamaihd.net/i/etv_marathi_n_1@87184/master.m3u8
- 
-#EXTINF:-1,BOLLYWOOD HUNGAMA
-rtsp://46.249.213.87/broadcast/bollywoodhungama-tablet.3gp
- 
-#EXTINF:-1,Films of India
-rtsp://46.249.213.93/broadcast/filmsofindia-tablet.3gp
- 
-#EXTINF:-1,Hindi Movies
-rtsp://46.249.213.93/broadcast/hindimovies-tablet.3gp
- 
-#EXTINF:-1,NDTV India
-http://bglive-a.bitgravity.com/ndtv/indlo/live/native
- 
-#EXTINF:-1,Sony SAB TV
-rtsp://46.249.213.93/broadcast/sonysabtv-tablet.3gp
- 
-#EXTINF:0, India Vision
-http://live.wmncdn.net/indiavisiontv/db65322988fe2be4bc40b7175de75c0e.sdp/playlist.m3u8
- 
-#EXTINF:0, Janta TV
-http://jlive.itv.net.in:1935/jantatv/myStream.sdp/playlist.m3u8
- 
-#EXTINF:0, Khabrayn Abhi Tak
-http://edge-ind.inapcdn.in:1935/berry/latest.stream_aac/playlist.m3u8
- 
-#EXTINF:0, Namma TV
-http://studiosystem.co.in:1935/live/namma.stream/playlist.m3u8
-
-#EXTINF:0,PTC PUNJABI
-http://195.244.40.174:34200/bysid/55117
- 
-#EXTINF:0, Samaya 24×7
-http://edge.purplestream.com/live/samtv/amlst:samayatv/playlist.m3u8
- 
-#EXTINF:0, Star Maza
-http://mediacontent-lh.akamaihd.net/i/marathiabpnew_1@188093/master.m3u8
-
-
-#EXTINF:-1,[COLOR orange]---- PAKISTAN ----[/COLOR]
-http://0.0.0.0:1234
-
-
-#EXTINF:-1,A Plus Pakistan 
-http://cdn.ebound.tv:1935/tv/aplus/playlist.m3u8 
-#EXTINF:-1,A Plus Sub Pakistan 
-http://cdn.ebound.tv:1935/tv/aplus_sub/playlist.m3u8 
-#EXTINF:-1,ARY Dizi Pakistan 
-http://cdn.ebound.tv:1935/tv/geokahani/playlist.m3u8 
-#EXTINF:-1, Ary Digital
-http://93.115.85.17:1935/ARYDIGITAL/myStream/BratuMarian.m3u8 
-#EXTINF:-1,Ary Digital (stream 2)
-rtmp://93.115.85.17:1935/ARYDIGITAL//myStream 
-#EXTINF:-1,Ary News
-http://93.115.85.17:1935/ARYNEWS_2/myStream_240p/BratuMarian.m3u8 
-#EXTINF:-1,Ary News (stream 2)
-rtmp://93.115.85.17:1935/ARYNEWS_2/myStream_240p 
-#EXTINF:-1,Ary Zindagi
-http://93.115.85.17:1935/ARYZINDAGI//myStream/BratuMarian.m3u8 
-#EXTINF:-1,ARY Zindagi (stream 2)
-rtmp://93.115.85.17:1935/ARYZINDAGI//myStream
-#EXTINF:-1,AVT Khyber Pakistan 
-http://cdn.ebound.tv:1935/tv/avtkhyber/playlist.m3u8 
-#EXTINF:-1,Bindas HD Explore TV Zee TVBindas Play Explore TV Zee TV 
-http://yupptvrtmp-lh.akamaihd.net/i/nwk9_46@196625/index_1000_av.m3u8 
-#EXTINF:-1,Explore TV Zee TV 
-http://yupptvrtmp-lh.akamaihd.net/i/nwk9_46@196625/index_1000_av.m3u8 
-#EXTINF:-1,Express Ent Pakistan 
-http://cdn.ebound.tv:1935/tv/expressentertainment_sub/playlist.m3u8 
-#EXTINF:-1,hadi_tv 
-rtmp://live1.haditv.com/liveTrans/channel1_110k 
-#EXTINF:-1,HD Mtunes Zee TV 
-http://yupptvrtmp-lh.akamaihd.net/i/blore2_mtunes35@101820/master.m3u8 
-#EXTINF:-1,Hum 2 Pakistan 
-http://cdn.ebound.tv:1935/tv/hum2/playlist.m3u8 
-#EXTINF:-1,Hum Tv Pakistan 
-http://cdn.ebound.tv:1935/tv/humtv/playlist.m3u8 
-#EXTINF:-1,iFILM 
-rtmp://mtv.fms-01.visionip.tv/live//mtv-ifilm-ifilm-live-16×9-SDq 
-#EXTINF:-1,islam_tv by_BratuMarian m3u8 
-http://wowza05.sharp-stream.com/islamtv/islamtv/BratuMarian.m3u8 
-#EXTINF:-1,islam_tv m3u8 
-http://wowza04.sharp-stream.com/islamtv/islamtv/BratuMarian.m3u8 
-#EXTINF:-1,Maharishi Channel 3 rtsp 
-rtsp://streaming.mou.org/videodialup 
-#EXTINF:-1,NDTV Profit 
-http://bglive-a.bitgravity.com/ndtv/prolo/live/native  
-#EXTINF:-1,peace_tv?by_BratuMarian 
-rtmp://peace.fms.visionip.tv/live/b2b-peace_asia-live-25f-4×3-sdh_1 
-#EXTINF:-1,PRESS TV 
-rtmp://mtv.fms-01.visionip.tv/live/mtv-ptv-live-25f-16×9-SDh?ref=www.presstv.ir&USER=MTV+-+PTV+Stream 
-#EXTINF:-1,PTV NEWS 
-rtmp://live.server4sale.com/live/PTVnews 
-#EXTINF:-1,PTV WORLD 
-rtmp://live.server4sale.com/live/8090 
-#EXTINF:-1,ptv-news
-rtmp://live.server4sale.com/live//PTVnews 
-#EXTINF:-1,Sama News rtsp 
-rtsp://38.96.148.99:1935/live/bb 
-#EXTINF:-1,Hadi TV
-rtmp://live1.haditv.com/liveTrans/channel1_110k
-#EXTINF:-1,HD Mtunes Zee TV
-http://mthls-i.akamaihd.net/hls/live/219508/mthls/06.m3u8
-#EXTINF:-1,iFILM
-rtmp://mtv.fms-01.visionip.tv/live//mtv-ifilm-ifilm-live-16x9-SDq
-#EXTINF:0, HUM TV
-http://cdn.ebound.tv:1935/tv/humtv/playlist.m3u8
-
-#EXTINF:0, HUM SITARAY
-http://cdn.ebound.tv:1935/tv/hum2/playlist.m3u8
-
-#EXTINF:0, EXPRESS ENTERTAINMENT
-http://cdn.ebound.tv:1935/tv/expressentertainment/playlist.m3u8
-
-#EXTINF:0, EXPRESS NEWS
-http://cdn.ebound.tv:1935/tv/express/playlist.m3u8
-
-#EXTINF:0, TIMES TV
-http://cdn.ebound.tv:1935/tv/times/playlist.m3u8
-
-#EXTINF:0, APLUS
-http://cdn.ebound.tv:1935/tv/aplus/playlist.m3u8
-
-#EXTINF:0, URDU 1
-http://cdn.ebound.tv:1935/tv/urdu1/playlist.m3u8
-
-#EXTINF:0, DAWN NEWS
-http://cdn.ebound.tv:1935/tv/dawn/playlist.m3u8
-
-#EXTINF:0, WAQT NEWS
-http://cdn.ebound.tv:1935/tv/waqtnews/playlist.m3u8
-
-#EXTINF:0, CAPITAL TV
-http://cdn.ebound.tv:1935/tv/capitaltv/playlist.m3u8
-
-#EXTINF:0, ROYAL NEWS TV
-http://cdn.ebound.tv:1935/tv/royaltv/playlist.m3u8
-
-#EXTINF:0, CHANNEL 5 NEWS
-http://cdn.ebound.tv:1935/tv/channelfive/playlist.m3u8
-
-#EXTINF:0, CITY42
-http://cdn.ebound.tv:1935/tv/city42/playlist.m3u8
-
-#EXTINF:0, MASALA TV
-http://cdn.ebound.tv:1935/tv/masalatv/playlist.m3u8
-
-#EXTINF:0, AWAZ TV
-http://cdn.ebound.tv:1935/tv/awaztv/playlist.m3u8
-
-#EXTINF:0, SINDH TV
-http://cdn.ebound.tv:1935/tv/sindhtv/playlist.m3u8
-
-#EXTINF:0, SINDH TV NEWS
-http://cdn.ebound.tv:1935/tv/sindhnews/playlist.m3u8
-
-#EXTINF:0, EMAX TV
-http://cdn.ebound.tv:1935/tv/emax/playlist.m3u8
-
-#EXTINF:0, STYLE 360
-http://cdn.ebound.tv:1935/tv/style360/playlist.m3u8
-
-#EXTINF:0, BUSINESS PLUS
-http://cdn.ebound.tv:1935/tv/businessplus/playlist.m3u8
-
-#EXTINF:0, TEHZEEB TV
-http://cdn.ebound.tv:1935/tv/tehzeeb/playlist.m3u8
-
-#EXTINF:-1,KTN ENT
-rtmp://$OPT:rtmp-raw=rtmp://103.24.96.74/ktn/ playpath=ktn swfUrl=http://ktntv.tv/wp-content/player/jwplayer.flash.swf pageUrl=http://www.ktntv.tv/ live=1
-
-#EXTINF:-1,KTN NEWS
-rtmp://$OPT:rtmp-raw=rtmp://103.24.96.74/ktn/ playpath=ktnnews swfUrl=http://ktntv.tv/wp-content/player/jwplayer.flash.swf pageUrl=http://www.ktnnews.tv/ live=1
-
-#EXTINF:-1,KASHISH
-rtmp://$OPT:rtmp-raw=rtmp://103.24.96.74/ktn/ playpath=kashish swfUrl=http://ktntv.tv/wp-content/player/jwplayer.flash.swf pageUrl=http://www.ktntv.tv/ live=1
+#EXTM3U iptv-zak.blogspot.com
+#EXTINF:-1,PAK SAMA NEWS
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/491.ts
+#EXTINF:-1,PAK NEWS 92
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/494.ts
+#EXTINF:-1,PAK GEO TEZZ
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/481.ts
+#EXTINF:-1,PAK GEO NEWS  PK
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/913.ts
+#EXTINF:-1,PAK GEO NEWS UK
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/484.ts
+#EXTINF:-1,PAK CHANNEL 24
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/476.ts
+#EXTINF:-1,PAK CAPITAL TV
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/475.ts
+#EXTINF:-1,PAK JAAG NEWS
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/632.ts
+#EXTINF:-1,PAK EXPRESS NEWS
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/478.ts
+#EXTINF:-1,PAK EXPRESS NEWS 2
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/1251.ts
+#EXTINF:-1,PAK DUNYA NEWS
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/472.ts
+#EXTINF:-1,PAK DUNYA NEWS 2
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/914.ts
+#EXTINF:-1,PAK ABBTAK
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/463.ts
+#EXTINF:-1,PAK ARY NEWS PK
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/916.ts
+#EXTINF:-1,PAK ARY NEWS UK
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/7.ts
+#EXTINF:-1,PAK NEWS ONE
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/487.ts
+#EXTINF:-1,PAK WASAB TV
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/901.ts
+#EXTINF:-1,PAK WAQAT NEWS
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/493.ts
+#EXTINF:-1,PAK AAJ NEWS
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/462.ts
+#EXTINF:-1,PAK CHANNEL 5
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/477.ts
+#EXTINF:-1,PAK Hum News
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/230.ts
+#EXTINF:-1,PAK HUM TV
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/229.ts
+#EXTINF:-1,PAK HUM TV 2
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/485.ts
+iptv-zak.blogspot.com
+#EXTINF:-1,PAK HUM WORLD
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/633.ts
+#EXTINF:-1,PAK HUM STARS
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/486.ts
+#EXTINF:-1,PAK TV ONE
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/900.ts
+#EXTINF:-1,PAK ARY DIGITAL
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/466.ts
+#EXTINF:-1,PAK ARY ZINDGAI
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/467.ts
+#EXTINF:-1,PAK ATV
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/902.ts
+#EXTINF:-1,PAK GEO KAHANI
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/480.ts
+#EXTINF:-1,PAK GEO TV UK
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/483.ts
+#EXTINF:-1,PAK EXPRESS
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/479.ts
+#EXTINF:-1,PAK APNA
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/465.ts
+#EXTINF:-1,PAK Such TV
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/9.ts
+#EXTINF:-1,PAK A PLUS
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/464.ts
+iptv-zak.blogspot.com
+#EXTINF:-1,PAK STAGE DRAMA
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/810.ts
+#EXTINF:-1,PAK ARY MUSIC
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/6.ts
+#EXTINF:-1,PAK MUJRA
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/809.ts
+#EXTINF:-1,HINDI DUBBED
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/811.ts
+#EXTINF:-1,PAK  ARY ZAUQ
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/4.ts
+#EXTINF:-1,PAK ARY ZAIQA
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/468.ts
+#EXTINF:-1,PAK 1 Masala tv
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/3.ts
+#EXTINF:-1,PAK Masala tv
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/10.ts
+#EXTINF:-1,PAK PTV WORLD
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/490.ts
+#EXTINF:-1,PAK GEO SUPER
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/482.ts
+#EXTINF:-1,PAK PTV SPORTS STREAM 2
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/904.ts
+iptv-zak.blogspot.com
+#EXTINF:-1,PAK PTV SPORTS
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/495.ts
+#EXTINF:-1,PAK PTV PRIME
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/928.ts
+#EXTINF:-1,PAK PTV NEWS
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/488.ts
+#EXTINF:-1,PAK PTV HOME
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/489.ts
+#EXTINF:-1,PAK PAIGHAM TV
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/497.ts
+#EXTINF:-1,PAK ARY QTV
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/5.ts
+#EXTINF:-1,PAK ARY QTV 2
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/469.ts
+#EXTINF:-1,PAK HELTH TV
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/917.ts
+#EXTINF:-1,PAK ISLAM TV
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/498.ts
+#EXTINF:-1,PAK MADNI CHANNEL
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/496.ts
+#EXTINF:-1,PAK ZINDGAI TV
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/221.ts
+#EXTINF:-1,PAK PASHTO 1
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/474.ts
+#EXTINF:-1,PAK KHYBER TV PASHTO
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/471.ts
+#EXTINF:-1,PAK KHYBER NEWS PASHTO
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/473.ts
+#EXTINF:-1,PAK ARUJ PASHTO
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/470.ts
+#EXTINF:-1,PAK Paigam Pushto
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/2.ts
+#EXTINF:-1,HINDI Zee TV HD
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/99.ts
+#EXTINF:-1,HINDI Zee TV APAC
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/93.ts
+#EXTINF:-1,HINDI Zee Smile
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/114.ts
+iptv-zak.blogspot.com
+#EXTINF:-1,HINDI Zee TV UK
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/95.ts
+#EXTINF:-1,HINDI STAR PLUS UK
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/909.ts
+#EXTINF:-1,HINDI Star Plus USA
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/126.ts
+#EXTINF:-1,HINDI Star Plus
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/128.ts
+#EXTINF:-1,HINDI Sony TV UK
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/79.ts
+#EXTINF:-1,HINDI Sony TV HD
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/82.ts
+#EXTINF:-1,HINDI Sab TV UK
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/71.ts
+#EXTINF:-1,HINDI Rishtey UK
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/63.ts
+#EXTINF:-1,HINDI Rishtey INDIA
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/60.ts
+#EXTINF:-1,HINDI Life OK USA
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/119.ts
+#EXTINF:-1,HINDI Life OK
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/120.ts
+#EXTINF:-1,HINDI Colors UK
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/52.ts
+#EXTINF:-1,HINDI Colors HD
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/57.ts
+#EXTINF:-1,HINDI Colors Europe
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/50.ts
+#EXTINF:-1,HINDI Colors APAC
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/48.ts
+#EXTINF:-1,WWE Network HD
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/1255.ts
+#EXTINF:-1,HINDI WILLOW
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/631.ts
+#EXTINF:-1,HINDI TEN SPORTS
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/626.ts
+#EXTINF:-1,HINDI TEN CRICKET
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/624.ts
+#EXTINF:-1,HINDI TEN ACTION
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/625.ts
+#EXTINF:-1,HINDI STAR SPORTS 4
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/627.ts
+#EXTINF:-1,HINDI STAR SPORTS 3
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/628.ts
+#EXTINF:-1,HINDI STAR SPORTS 2
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/629.ts
+#EXTINF:-1,HINDI STAR SPORTS 1
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/630.ts
+#EXTINF:-1,HINDI SONY SIX
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/623.ts
+#EXTINF:-1,HINDI Cartoon Network
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/135.ts
+iptv-zak.blogspot.com
+#EXTINF:-1,HINDI Pogo
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/137.ts
+#EXTINF:-1,HINDI Sonic Nickelodeon
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/243.ts
+#EXTINF:-1,HINDI Nick Jr
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/244.ts
+#EXTINF:-1,HINDI Nick
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/245.ts
+#EXTINF:-1,HINDI Set Max UK
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/74.ts
+#EXTINF:-1,HINDI Zee Action
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/106.ts
+#EXTINF:-1,HINDI Enterr 10
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/84.ts
+#EXTINF:-1,HINDI UMP MOVIES
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/931.ts
+#EXTINF:-1,HINDI STAR GOLD
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/930.ts
+#EXTINF:-1,HINDI DANGAAL
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/622.ts
+#EXTINF:-1,HINDI Zee Living
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/92.ts
+#EXTINF:-1,HINDI Zee Classic
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/102.ts
+#EXTINF:-1,HINDI Zee Cinema UK
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/110.ts
+#EXTINF:-1,HINDI Zee Cinema APAC
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/108.ts
+#EXTINF:-1,HINDI Zee Cinema
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/112.ts
+#EXTINF:-1,HINDI B4U MOVIE
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/911.ts
+#EXTINF:-1,HINDI UTV Movies International
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/89.ts
+#EXTINF:-1,HINDI UTV Bindass
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/86.ts
+#EXTINF:-1,HINDI Bindass Play
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/19.ts
+#EXTINF:-1,HINDI Music Xpress
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/22.ts
+#EXTINF:-1,HINDI Music India [Stream 2]
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/24.ts
+#EXTINF:-1,HINDI Music India
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/26.ts
+#EXTINF:-1,HINDI MTV India
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/33.ts
+#EXTINF:-1,HINDI Mtunes HD [Stream 2]
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/28.ts
+#EXTINF:-1,HINDI FOOD FOOD
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/915.ts
+#EXTINF:-1,HINDI Mtunes HD
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/30.ts
+#EXTINF:-1,HINDI Zoom UK
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/17.ts
+#EXTINF:-1,HINDI Zoom
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/18.ts
+#EXTINF:-1,HINDI Zing UK
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/14.ts
+iptv-zak.blogspot.com
+#EXTINF:-1,HINDI Zing
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/15.ts
+#EXTINF:-1,HINDI B4U Music
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/16.ts
+#EXTINF:-1,HINDI And TV
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/132.ts
+#EXTINF:-1,HINDI 9x Music
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/13.ts
+#EXTINF:-1,HINDI 9x Jhakaas
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/8.ts
+#EXTINF:-1,9x Jalwa [Stream 2]
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/11.ts
+#EXTINF:-1,HINDI 9x Jalwa
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/12.ts
+#EXTINF:-1,HINDI 9X E
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/46.ts
+#EXTINF:-1,HINDI Zee Business
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/35.ts
+#EXTINF:-1,HINDI NDTV INDIA
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/912.ts
+#EXTINF:-1,HINDI TIME NOW
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/839.ts
+#EXTINF:-1,HINDI NEWS 9
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/840.ts
+#EXTINF:-1,HINDI INDIA TODAY
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/841.ts
+#EXTINF:-1,HINDI ETV NOW
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/842.ts
+#EXTINF:-1,HINDI ZEE NEWS
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/242.ts
+#EXTINF:-1,HINDI IBN Lokmat
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/241.ts
+#EXTINF:-1,HINDI IBN 7
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/240.ts
+#EXTINF:-1,HINDI ABP News
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/239.ts
+#EXTINF:-1,HINDI AAJ TAKK
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/180.ts
+#EXTINF:-1,HINDI NDTV Profit
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/222.ts
+#EXTINF:-1,HINDI INDIA TV
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/228.ts
+#EXTINF:-1,HINDI zeemadyapradesh
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/1039.ts
+iptv-zak.blogspot.com
+#EXTINF:-1,HINDI ZEE TALKIES
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/1045.ts
+#EXTINF:-1,HINDI ZEE SANGAM
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/1038.ts
+#EXTINF:-1,HINDI ZEE SALAM
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/1034.ts
+#EXTINF:-1,HINDI ZEE PURVAIYA
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/1036.ts
+#EXTINF:-1,HINDI ZEE MARUAHAR
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/1035.ts
+#EXTINF:-1,HINDI ZEE LIVING FOOD
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/1041.ts
+#EXTINF:-1,HINDI ZEE LAMHE
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/1043.ts
+#EXTINF:-1,HINDI ZEE KALINGA
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/1037.ts
+#EXTINF:-1,HINDI ZEE GHANTA
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/1040.ts
+#EXTINF:-1,HINDI ZEE BOLLYWOOD
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/1044.ts
+#EXTINF:-1,HINDI ZEE ANMOL
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/1046.ts
+#EXTINF:-1,PUNJABI SIKH TV
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/501.ts
+#EXTINF:-1,PUNJABI SANGAT TV
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/500.ts
+#EXTINF:-1,PUNJABI PUNJAB TV
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/521.ts
+#EXTINF:-1,PUNJABI PBN MUSIC
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/519.ts
+#EXTINF:-1,PUNJABI HAMDARD TV
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/517.ts
+#EXTINF:-1,PUNJABI gurudwara-sahib
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/226.ts
+#EXTINF:-1,PUNJABI gurudwara melbourne
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/224.ts
+#EXTINF:-1,PUNJABI DD PUNJABI
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/520.ts
+#EXTINF:-1,PUNJABI CHARDIKLA
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/502.ts
+#EXTINF:-1,PUNJABI AKAAL
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/499.ts
+#EXTINF:-1,PUJABI DESI TV
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/518.ts
+#EXTINF:-1,PUJABI Craigieburn Gurudwara
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/225.ts
+#EXTINF:-1,PUNJABI 9xTashan
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/231.ts
+#EXTINF:-1,PUJABI Zee Punjabi
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/238.ts
+#EXTINF:-1,PUNJABI Alpha ETC Punjabi
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/237.ts
+#EXTINF:-1,PUNJABI A One Pujabi
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/20.ts
+#EXTINF:-1,PUNJABI PTC
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/232.ts
+#EXTINF:-1,PUNJABI PTC News
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/234.ts
+#EXTINF:-1,PUNJABI PTC Chak De
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/233.ts
+#EXTINF:-1,PUNJABI JUS Punjabi TV
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/235.ts
+#EXTINF:-1,PUNJABI JUS One TV
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/236.ts
+#EXTINF:-1,UK VH1
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/542.ts
+#EXTINF:-1,UK TV 3
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/591.ts
+#EXTINF:-1,UK TRUE MOVIES 2
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/548.ts
+#EXTINF:-1,UK TRUE MOVIES
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/549.ts
+#EXTINF:-1,UK TRUE DRAMA
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/577.ts
+#EXTINF:-1,UK TRAVEL
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/561.ts
+#EXTINF:-1,UK TLC
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/527.ts
+#EXTINF:-1,UK THE VAULT
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/541.ts
+#EXTINF:-1,UK TG4
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/590.ts
+#EXTINF:-1,UK TCM
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/532.ts
+#EXTINF:-1,UK SKY SPORTS NEWS
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/607.ts
+#EXTINF:-1,UK SKY SPORTS 5
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/617.ts
+#EXTINF:-1,UK SKY SPORTS 4
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/618.ts
+#EXTINF:-1,UK SKY SPORTS 3
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/619.ts
+#EXTINF:-1,UK SKY SPORTS 2
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/620.ts
+#EXTINF:-1,UK SKY SPORTS 1
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/621.ts
+#EXTINF:-1,UK SKY NEWS
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/606.ts
+#EXTINF:-1,UK SKY MOVIES SCIFI
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/554.ts
+#EXTINF:-1,UK SKY MOVIES GREAT
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/551.ts
+#EXTINF:-1,UK SKY MOVIES DRAMA
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/555.ts
+#EXTINF:-1,UK SKY MOVIES CRIME
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/556.ts
+#EXTINF:-1,UK SKY MOVIES COMEDY
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/553.ts
+#EXTINF:-1,UK SKY MOVIES ACTION
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/558.ts
+#EXTINF:-1,UK SKY MOVEIS PRE
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/559.ts
+iptv-zak.blogspot.com
+#EXTINF:-1,UK SKY MOVEIS FAMILY
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/557.ts
+#EXTINF:-1,UK SKY MOVEIS DISNEY
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/552.ts
+#EXTINF:-1,UK SKY LIVING
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/584.ts
+#EXTINF:-1,UK SKY ATLANTIC
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/583.ts
+#EXTINF:-1,UK SKY 2
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/585.ts
+#EXTINF:-1,UK SKY 1
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/586.ts
+#EXTINF:-1,UK SETANTA
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/613.ts
+#EXTINF:-1,UK RTE ONE
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/593.ts
+#EXTINF:-1,UK RTE 2
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/592.ts
+#EXTINF:-1,UK RACING
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/547.ts
+#EXTINF:-1,UK QUEST
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/579.ts
+#EXTINF:-1,UK PICK TV
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/526.ts
+#EXTINF:-1,UK NICKTOONS
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/533.ts
+#EXTINF:-1,UK NICKLODEON
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/535.ts
+#EXTINF:-1,UK NICK JUNIOR 2
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/524.ts
+#EXTINF:-1,UK NICK JUNIOR
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/525.ts
+#EXTINF:-1,UK NATGEO WILD
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/564.ts
+#EXTINF:-1,UK NATGEO
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/565.ts
+#EXTINF:-1,UK MUTV
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/530.ts
+#EXTINF:-1,UK MTV MUSIC
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/545.ts
+#EXTINF:-1,UK MTV LIVE
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/543.ts
+#EXTINF:-1,UK MTV HITS
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/544.ts
+#EXTINF:-1,UK MORE 4
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/587.ts
+#EXTINF:-1,UK MAGIC
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/538.ts
+#EXTINF:-1,UK LIVERPOOL
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/531.ts
+#EXTINF:-1,UK ITV 4
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/598.ts
+#EXTINF:-1,UK ITV 3
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/599.ts
+#EXTINF:-1,UK ITV 2
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/600.ts
+iptv-zak.blogspot.com
+#EXTINF:-1,UK ITV 1
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/601.ts
+#EXTINF:-1,UK HISTORY
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/567.ts
+#EXTINF:-1,UK HEART
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/539.ts
+#EXTINF:-1,UK GOLD
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/581.ts
+#EXTINF:-1,UK FOODNET
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/560.ts
+#EXTINF:-1,UK FILM 4
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/550.ts
+#EXTINF:-1,UK F 1
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/616.ts
+#EXTINF:-1,UK EURO SPORTS 2
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/608.ts
+#EXTINF:-1,UK EURO SPORTS 1
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/609.ts
+#EXTINF:-1,UK ESPN
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/610.ts
+#EXTINF:-1,UK DISNEY XD
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/523.ts
+#EXTINF:-1,UK DISNEY JUNIOR
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/536.ts
+#EXTINF:-1,UK DISNEY
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/537.ts
+#EXTINF:-1,UK DISCOVERY TURBO
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/562.ts
+#EXTINF:-1,UK DISCOVERY ID
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/563.ts
+#EXTINF:-1,UK DISCOVERY HISTORY
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/568.ts
+#EXTINF:-1,UK DISCOVERY
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/569.ts
+#EXTINF:-1,UK DAVE
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/582.ts
+#EXTINF:-1,UK D MAX
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/594.ts
+#EXTINF:-1,UK COMEDY CENTERAL
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/580.ts
+#EXTINF:-1,UK CNN
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/570.ts
+#EXTINF:-1,UK CNBC EU
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/571.ts
+#EXTINF:-1,UK CHELSEA
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/529.ts
+#EXTINF:-1,UK CHANNEL 5
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/596.ts
+#EXTINF:-1,UK CHANNEL 4
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/597.ts
+iptv-zak.blogspot.com
+#EXTINF:-1,UK CBS REALITY
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/574.ts
+#EXTINF:-1,UK CBS DRAMA
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/576.ts
+#EXTINF:-1,UK CBS ACTION
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/575.ts
+#EXTINF:-1,UK CARTOON NETWORK
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/534.ts
+#EXTINF:-1,UK BT SPORTS EUROP
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/611.ts
+#EXTINF:-1,UK BT 2
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/614.ts
+#EXTINF:-1,UK BT 1
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/615.ts
+#EXTINF:-1,UK BOXNATION
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/546.ts
+#EXTINF:-1,UK BLOOMBERG
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/572.ts
+#EXTINF:-1,UK BBC NEWS
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/573.ts
+#EXTINF:-1,UK BBC 4
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/602.ts
+#EXTINF:-1,UK BBC 3
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/603.ts
+#EXTINF:-1,UK BBC 2
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/604.ts
+#EXTINF:-1,UK BBC 1
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/605.ts
+#EXTINF:-1,UK BABY TV
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/528.ts
+#EXTINF:-1,UK ANIMAL PLANET
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/566.ts
+#EXTINF:-1,UK ALIBI
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/578.ts
+#EXTINF:-1,UK 5 STAR
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/595.ts
+#EXTINF:-1,UK 4E
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/588.ts
+#EXTINF:-1,UK 3E
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/589.ts
+#EXTINF:-1,UK  PREMIER SPORTS
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/612.ts
+#EXTINF:-1,THE FLAVA
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/540.ts
+#EXTINF:-1,UK DISNEY XD PLUS
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/522.ts
+#EXTINF:-1,ARABIC ALMAJID QURAN
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/918.ts
+#EXTINF:-1,ARABIC ZEE ALWAN
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/661.ts
+#EXTINF:-1,ARABIC ZEE AFLAM
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/660.ts
+#EXTINF:-1,ARABIC SAMA DUBAI
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/672.ts
+iptv-zak.blogspot.com
+#EXTINF:-1,ARABIC ROTANA MUSIC
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/659.ts
+#EXTINF:-1,ARABIC ROTANA MASRYA
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/658.ts
+#EXTINF:-1,ARABIC ROTANA KHAILGI
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/657.ts
+#EXTINF:-1,ARABIC ROTANA CLIP
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/656.ts
+#EXTINF:-1,ARABIC ROTANA CLASSIC
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/655.ts
+#EXTINF:-1,ARABIC ROTANA CINEMA
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/654.ts
+#EXTINF:-1,ARABIC NOOR DUBAI
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/671.ts
+#EXTINF:-1,ARABIC NILE LIFE
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/666.ts
+#EXTINF:-1,ARABIC NILE FAMILY
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/662.ts
+#EXTINF:-1,ARABIC NILE DRAMA
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/665.ts
+#EXTINF:-1,ARABIC NILE CULTURE
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/667.ts
+#EXTINF:-1,ARABIC NILE COMEDY
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/664.ts
+#EXTINF:-1,ARABIC NILE CINEMA
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/663.ts
+#EXTINF:-1,ARABIC MBC MISR 2
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/651.ts
+#EXTINF:-1,ARABIC MBC MISR
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/650.ts
+#EXTINF:-1,ARABIC MBC MAX
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/649.ts
+#EXTINF:-1,ARABIC MBC DRAMA
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/653.ts
+#EXTINF:-1,ARABIC MBC BOLLYWOOD
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/652.ts
+#EXTINF:-1,ARABIC MBC ACTION
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/648.ts
+#EXTINF:-1,ARABIC MBC 4
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/647.ts
+#EXTINF:-1,ARABIC MBC 3
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/646.ts
+#EXTINF:-1,ARABIC MBC 2
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/645.ts
+#EXTINF:-1,ARABIC MBC 1
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/644.ts
+#EXTINF:-1,ARABIC DUBAI RACEING 3
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/673.ts
+#EXTINF:-1,ARABIC DUBAI ONE
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/670.ts
+#EXTINF:-1,ARABIC DUABI SPORTS 3
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/674.ts
+#EXTINF:-1,ARABIC BEIN 9
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/635.ts
+#EXTINF:-1,ARABIC BEIN 8
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/636.ts
+iptv-zak.blogspot.com
+#EXTINF:-1,ARABIC BEIN 7
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/637.ts
+#EXTINF:-1,ARABIC BEIN 6
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/638.ts
+#EXTINF:-1,ARABIC BEIN 5
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/639.ts
+#EXTINF:-1,ARABIC BEIN 4
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/640.ts
+#EXTINF:-1,ARABIC BEIN 3
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/641.ts
+#EXTINF:-1,ARABIC BEIN 2
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/642.ts
+#EXTINF:-1,ARABIC BEIN 10
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/634.ts
+#EXTINF:-1,ARABIC BEIN 1
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/643.ts
+iptv-zak.blogspot.com
+#EXTINF:-1,ARABIC BBC
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/669.ts
+#EXTINF:-1,ARABIC ALJAZEERA
+http://tabertor.ddns.net:8000/live/mudassir/mudassir/668.ts
